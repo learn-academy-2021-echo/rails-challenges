@@ -1,4 +1,3 @@
-README:
 # Rails Challenges
 
 This repository holds the Rails pair programming challenges for the Echo 2021 cohort.
